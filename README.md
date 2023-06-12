@@ -1,2 +1,2 @@
-# slurm-workshop-sep2021
-materials and examples for Slurm Job Management workshop
+# running-jobs-on-carc-bootcamp-2023
+materials and examples for Running Jobs on CARC Systems workshop
